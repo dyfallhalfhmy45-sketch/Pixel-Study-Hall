@@ -10,7 +10,7 @@
 🌐 عربي وإنجليزي مع دعم RTL كامل.
 📦 ملف واحد بلا بناء ولا تثبيت.
 التشغيل محليًا
-python3 -m http.server 8000
+https://dyfallhalfhmy45-sketch.github.io/Pixel-Study-Hall/#main
 # افتح http://localhost:8000
 المايكروفون يحتاج localhost أو HTTPS.
 
